@@ -1,0 +1,2 @@
+# apprating-anlysis
+The aim of this project is to find profiles for profitable mobile apps in App Store and Google Play markets. This can help developers to understand what types of apps they should build to generate profits. Given that we only develop free apps, so the main source of revenue is in-app ads. The revenue of an app will largely depending on how many customers it has. Our goal of this project is to identify what kinds of apps are likely to attract more users.
